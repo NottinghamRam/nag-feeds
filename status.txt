@@ -1,3 +1,3 @@
-last_refresh=2026-11-21
+last_refresh=2026-11-21 01:19 CT
 ss_cars=148
 bon_cars=145
