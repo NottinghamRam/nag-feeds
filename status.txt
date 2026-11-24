@@ -1,3 +1,3 @@
-last_refresh=2026-11-24 01:19 CT
+last_refresh=2026-11-24 13:40 CT (off-cycle: regional cash)
 ss_cars=133
 bon_cars=131
